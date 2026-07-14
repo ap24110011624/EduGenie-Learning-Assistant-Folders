@@ -1,7 +1,6 @@
 # 🧠 EduGenie: Emotion Detection & Learning Support Engine
 
 An AI-powered web application that detects students' emotions from text and provides personalized learning guidance using deep learning models and Google Gemini AI.
-
 ---
 
 ## 📌 Project Overview
